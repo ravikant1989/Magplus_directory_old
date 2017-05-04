@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Magplus_Testing" duration-ms="37437" started-at="2017-05-04T10:29:55Z" finished-at="2017-05-04T10:30:32Z">
+    <groups>
+    </groups>
+    <test name="Magplus_Login" duration-ms="3" started-at="2017-05-04T10:29:55Z" finished-at="2017-05-04T10:29:55Z">
+    </test> <!-- Magplus_Login -->
+    <test name="Issue Test" duration-ms="37419" started-at="2017-05-04T10:29:55Z" finished-at="2017-05-04T10:30:32Z">
+      <class name="com.magplus.Add_New_Issue">
+        <test-method status="PASS" signature="Parameters()[pri:0, instance:com.magplus.Add_New_Issue@3b6eb2ec]" name="Parameters" is-config="true" duration-ms="5378" started-at="2017-05-04T15:59:49Z" finished-at="2017-05-04T15:59:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Parameters -->
+        <test-method status="PASS" signature="Publish_Login()[pri:0, instance:com.magplus.Add_New_Issue@3b6eb2ec]" name="Publish_Login" duration-ms="14344" started-at="2017-05-04T15:59:55Z" finished-at="2017-05-04T16:00:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Publish_Login -->
+        <test-method status="PASS" signature="Add_Issue()[pri:0, instance:com.magplus.Add_New_Issue@3b6eb2ec]" name="Add_Issue" duration-ms="22143" started-at="2017-05-04T16:00:09Z" finished-at="2017-05-04T16:00:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Issue -->
+        <test-method status="PASS" signature="closeb()[pri:0, instance:com.magplus.Add_New_Issue@3b6eb2ec]" name="closeb" is-config="true" duration-ms="927" started-at="2017-05-04T16:00:31Z" finished-at="2017-05-04T16:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+      </class> <!-- com.magplus.Add_New_Issue -->
+    </test> <!-- Issue Test -->
+  </suite> <!-- Magplus_Testing -->
+</testng-results>

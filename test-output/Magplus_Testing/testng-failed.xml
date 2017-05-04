@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Magplus_Testing]">
+  <test name="Magplus_Login(failed)">
+    <classes>
+      <class name="com.magplus.Magplus_Login">
+        <methods>
+          <include name="Parameters"/>
+          <include name="Mag_login"/>
+        </methods>
+      </class> <!-- com.magplus.Magplus_Login -->
+    </classes>
+  </test> <!-- Magplus_Login(failed) -->
+</suite> <!-- Failed suite [Magplus_Testing] -->

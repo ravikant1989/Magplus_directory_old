@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Magplus_Testing">
+	<test name="Magplus_Login">
+		<classes>
+			       <!-- <class name="com.magplus.Magplus_Login" /> -->
+<!--             <class name="com.npg.AthensShibb" /> -->
+		</classes>
+	</test>
+	<test name="Issue Test">
+		<classes>
+                 <class name="com.magplus.Add_New_Issue" />
+<!--             <class name="com.npg.AthensShibb" /> -->
+		</classes>
+	</test>
+</suite>
